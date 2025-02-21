@@ -1,5 +1,11 @@
 # DeDNS Protocol
 
+## Getting Started (Quick)
+1. Install Phantom in your supported web browser of choice https://phantom.com/
+2. Navigate to https://beta.solpg.io/
+3. Import this repo from GitHub
+4. Build, deploy, and test through the left UI panel
+
 ## Instructions
 
 **[TODO]** Determine instructions for posting proof or off-chain proof confirmations for DNS provider uptime.
